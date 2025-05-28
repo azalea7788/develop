@@ -1,8 +1,7 @@
 ---
 ---
-
-@import "{{ site.theme }}";
-
-*|*{
+h1,h2,h3{
   color: aqua;
 }
+
+@import "{{ site.theme }}";
