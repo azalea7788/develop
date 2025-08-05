@@ -3,3 +3,5 @@ google_analytics: UA-NNNNNNNN-N // Google Analyticsの有効化のために仮�
 author: User
 email: your-email@domain.com
 lang: ja
+disqus:
+  shortname: mujcmole
