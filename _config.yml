@@ -1,8 +1,7 @@
 remote_theme: "jekyll/minima@c6e74bb"
 google_analytics: UA-NNNNNNNN-N // Google Analyticsの有効化のために仮の値を設定
 author: User
-email: your-email@domain.com
-email: your-email@domain.co
+email: your-email@domain.com, your-email@domain.co
 lang: ja
 disqus:
   shortname: mujcmole
