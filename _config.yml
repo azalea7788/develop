@@ -1,3 +1,4 @@
 theme: minima
 google_analytics: G-NNNNNNNNNN  // Google Analyticsの有効化のために仮の値を設定
 email: your-email@domain.com
+lang: ja
